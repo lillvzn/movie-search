@@ -1,4 +1,4 @@
-# movies-app
+# Movie Search
 
 React SPA to search movies
 
