@@ -1,0 +1,8 @@
+node_modules
+*-lock.json
+build
+.env
+coverage
+.vscode
+cypress/screenshots
+cypress/videos
