@@ -26,7 +26,7 @@ _NOTE: You will need to create an account in [themoviedb](https://www.themoviedb
 3. Rename .env.example file to .env and add the API key that you've previously created
 
 ```
-    cp .env.example .env
+    cp example.env .env
 ```
 
 4. Run tests to ensure that everything works well
